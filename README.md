@@ -23,6 +23,8 @@ The project demonstrates audio/video recording, media playback, and modern front
   Your browser does not support video playback.
 </video>
 ```
+[![Watch Demo](public/all.mp4)
+
 
 ## Technologies
 

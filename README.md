@@ -14,12 +14,9 @@ Email: [sitebogd15@gmail.com](mailto:sitebogd15@gmail.com)
 Frontend application built with React using the MediaRecorder API.
 The project demonstrates audio/video recording, media playback, and modern frontend architecture.
 
-## Project Demo
-
+## Download and watch the demo video
 
 [Watch all.mp4 Video](https://raw.githubusercontent.com/site50/mediarecoder/main/public/all5.mp4)
-
-
 
 ## Technologies
 
@@ -39,13 +36,6 @@ npm run dev
 ```bash
 npm start
 ```
-
-## Project Structure
-
-/public
-demo.mp4
-/src
-README.md
 
 ## Features
 

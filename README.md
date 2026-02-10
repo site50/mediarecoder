@@ -26,7 +26,7 @@ The project demonstrates audio/video recording, media playback, and modern front
 
 [Watch all.mp4 Video](https://raw.githubusercontent.com/site50/mediarecoder/main/public/all.mp4))
 
-
+[![Watch Demo](public/vite.svg)](public/all.mp4)
 
 ## Technologies
 

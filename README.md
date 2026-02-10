@@ -49,6 +49,6 @@ Demonstration of skills in modern frontend development, Web APIs, React architec
 
 This repository contains the frontend part of a fullstack engineering task with a demo video embedded in the README.
 
-## Note
+
 
 

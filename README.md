@@ -16,7 +16,13 @@ The project demonstrates audio/video recording, media playback, and modern front
 
 ## Project Demo
 
-![Demo](https://github.com/site50/mediarecoder/blob/main/public/all.mp4)
+
+```html
+<video controls width="800">
+  <source src="public/demo.mp4" type="video/mp4">
+  Your browser does not support video playback.
+</video>
+```
 
 ## Technologies
 

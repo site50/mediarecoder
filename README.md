@@ -17,13 +17,6 @@ The project demonstrates audio/video recording, media playback, and modern front
 ## Project Demo
 
 
-```html
-<video controls width="800">
-  <source src="public/all5.mp4" type="video/mp4">
-  Your browser does not support video playback.
-</video>
-```
-
 [Watch all.mp4 Video](https://raw.githubusercontent.com/site50/mediarecoder/main/public/all5.mp4)
 
 
@@ -72,4 +65,4 @@ This repository contains the frontend part of a fullstack engineering task with 
 
 ## Note
 
-The demo video is located in the public folder and is fully supported by GitHub's built-in player with sound.
+

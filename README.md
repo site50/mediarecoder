@@ -16,12 +16,7 @@ The project demonstrates audio/video recording, media playback, and modern front
 
 ## Project Demo
 
-```html
-<video controls width="800">
-  <source src="public/demo.mp4" type="video/mp4">
-  Your browser does not support video playback.
-</video>
-```
+![Demo](https://github.com/site50/react-test-2026/blob/main/public/hello.gif)
 
 ## Technologies
 

@@ -16,7 +16,7 @@ The project demonstrates audio/video recording, media playback, and modern front
 
 ## Download and watch the demo video
 
-[Watch all.mp4 Video](https://raw.githubusercontent.com/site50/mediarecoder/main/public/all5.mp4)
+[Watch all5.mp4 Video](https://raw.githubusercontent.com/site50/mediarecoder/main/public/all5.mp4)
 
 ## Technologies
 
@@ -31,10 +31,6 @@ CSS3
 ```bash
 npm install
 npm run dev
-```
-
-```bash
-npm start
 ```
 
 ## Features

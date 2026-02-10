@@ -24,6 +24,8 @@ The project demonstrates audio/video recording, media playback, and modern front
 </video>
 ```
 [![Watch Demo](public/all.mp4)
+[Watch Demo Video](https://raw.githubusercontent.com/<username>/<repo>/main/public/demo.mp4)
+
 
 
 ## Technologies

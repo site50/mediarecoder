@@ -19,14 +19,14 @@ The project demonstrates audio/video recording, media playback, and modern front
 
 ```html
 <video controls width="800">
-  <source src="public/all.mp4" type="video/mp4">
+  <source src="public/all5.mp4" type="video/mp4">
   Your browser does not support video playback.
 </video>
 ```
 
-[Watch all.mp4 Video](https://raw.githubusercontent.com/site50/mediarecoder/main/public/all5.mp4))
+[Watch all.mp4 Video](https://raw.githubusercontent.com/site50/mediarecoder/main/public/all5.mp4)
 
-[![Watch Demo](public/vite.svg)](public/all5.mp4)
+
 
 ## Technologies
 

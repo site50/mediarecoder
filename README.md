@@ -16,7 +16,7 @@ The project demonstrates audio/video recording, media playback, and modern front
 
 ## Project Demo
 
-![Demo](https://github.com/site50/react-test-2026/blob/main/public/hello.gif)
+![Demo](https://github.com/site50/mediarecoder/blob/main/public/all.mp4)
 
 ## Technologies
 

@@ -19,7 +19,7 @@ The project demonstrates audio/video recording, media playback, and modern front
 
 ```html
 <video controls width="800">
-  <source src="public/demo.mp4" type="video/mp4">
+  <source src="public/all.mp4" type="video/mp4">
   Your browser does not support video playback.
 </video>
 ```
